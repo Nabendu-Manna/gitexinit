@@ -1,0 +1,2 @@
+# gitexinit
+to test git
